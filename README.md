@@ -111,5 +111,5 @@ If you’re passionate about **AI safety, prompt engineering, or building secure
 ---
 
 **License:** MIT  
-**Author:** *Your Name*  
+**Author:** *Tanujkumar*  
 
